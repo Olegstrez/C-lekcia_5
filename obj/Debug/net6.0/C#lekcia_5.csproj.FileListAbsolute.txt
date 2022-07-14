@@ -1,0 +1,15 @@
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.csproj.AssemblyReference.cache
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.AssemblyInfoInputs.cache
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.AssemblyInfo.cs
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.csproj.CoreCompileInputs.cache
+C:\Users\kornilov.s\Desktop\C#lekcia_5\bin\Debug\net6.0\C#lekcia_5.exe
+C:\Users\kornilov.s\Desktop\C#lekcia_5\bin\Debug\net6.0\C#lekcia_5.deps.json
+C:\Users\kornilov.s\Desktop\C#lekcia_5\bin\Debug\net6.0\C#lekcia_5.runtimeconfig.json
+C:\Users\kornilov.s\Desktop\C#lekcia_5\bin\Debug\net6.0\C#lekcia_5.dll
+C:\Users\kornilov.s\Desktop\C#lekcia_5\bin\Debug\net6.0\C#lekcia_5.pdb
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.dll
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\refint\C#lekcia_5.dll
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.pdb
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\C#lekcia_5.genruntimeconfig.cache
+C:\Users\kornilov.s\Desktop\C#lekcia_5\obj\Debug\net6.0\ref\C#lekcia_5.dll
